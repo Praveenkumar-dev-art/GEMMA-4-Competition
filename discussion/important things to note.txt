@@ -1,0 +1,17 @@
+6. External Data, Models, and Tools
+a. General Availability: You are encouraged to leverage external developer APIs, open data sources, and foundation tooling to enhance your build. However, you must ensure that all external assets used are either publicly accessible at no cost to the developer community or adhere strictly to the accessibility criteria below.
+b. The Reasonableness Standard: The use of commercial auxiliary APIs (such as cloud hosting layers or small subscription-tier developer tooling) is perfectly acceptable only if it meets a basic baseline of accessibility. Procuring a specialized corporate data asset that exceeds the real-world scale of a community build project would violate this standard.
+c. Automated Tooling: Individual Participants and Teams may utilize automated machine learning tools or scaffolding libraries (e.g., Keras, Hugging Face pipelines, agentic orchestration engines) to build out the application, provided they possess the appropriate open license rights to comply with these rules.
+
+Submission Requirements (Pass/Fail)
+
+To be eligible for prizes, your team must submit:
+
+Kaggle Writeu p: A technical report under 1,500 words explaining your engineering architecture.
+Public Code Repository: A well-documented, publicly accessible link (e.g., GitHub) showing your Gemma 4 implementation.
+Live Demo: A URL to a hosted web app, an interactive recording, or a fully functional Kaggle Notebook.
+Scoring Breakdown (100 Points Total)
+Gemma Integration (30 Points / 30%): How effectively did you utilize Gemma 4 (prompting, RAG, function calling, or fine-tuning)? Is Gemma core to the solution?
+Innovation & Impact (30 Points / 30%): Does the application solve a meaningful, real-world problem? Is the approach creative and relevant?
+Functionality & Prototype (20 Points / 20%): Does the prototype actually work? Is the demo stable and convincing?
+Presentation & Writeup (20 Points / 20%): Is your Kaggle Writeup clear and technically accurate? Does your pitch cleanly communicate the problem and solution?

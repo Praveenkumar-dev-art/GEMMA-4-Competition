@@ -1,0 +1,16 @@
+Software idea of how the flow that you are going to maintain to build this project
+1. Planning-> analyzing design-> implementation-> testing and integration-> maintenance_loop if needed
+ Going to maintain a stitch CICD tool which is GitHub to see through the history and travel through it to do a best application 
+
+
+
+so first We need a plan so this is what the wrap around idea we are going to build 
+(
+• Core Requirements:
+      1. Language & Population: Focus on a specific region, language, or dialect.
+      2. Triage vs. Diagnosis: Explicitly frame the assistant as a triage tool (advising on care urgency), never a diagnostic tool.
+      3. Evidence-Based: Must specify the underlying clinical protocol or dataset used as the truth source.
+      4. Gemma 4 Capabilities: Must interpret symptoms in regional dialects, map them to structured outputs, and use function calling to link to
+      next-step actions (like nearby clinic lookups, referral links, or structured audit logs).
+      5. Safety & Disclaimers: Must show a visible disclaimer, support emergency symptom escalation, and provide a clear explanation/rationale
+      for triage decisions.)
